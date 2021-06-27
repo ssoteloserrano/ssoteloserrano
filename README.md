@@ -1,6 +1,5 @@
 👋 Hi, I’m @ssoteloserrano\
-👀 I’m interested in mobile dev\
-🌱 I’m currently learning flutter
+👀 I’m interested in mobile dev & automation\
 
 I usually like to mix my hobbies with software development 💞️
 
